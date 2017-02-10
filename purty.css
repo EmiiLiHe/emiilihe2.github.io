@@ -1,12 +1,17 @@
 body{
+    background-color:darkred
 /*    the background*/
 }
 p{
-    color:crimson;
+    color:red;
     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif ;
     font-size:100px;
-    font-weight:100; 
-    }     
+    font-weight:500; 
+    } 
+}
+b{
+    URL:
+}
 img {
-     width: 500px;   
+     width: 400px;   
     }  
